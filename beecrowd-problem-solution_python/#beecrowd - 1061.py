@@ -1,4 +1,4 @@
-#beecrowd - 1052
+#beecrowd - 1061
 # Event time
 
 day1, date1 = input().split(" ")
